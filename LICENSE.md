@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new grid trading bot for futures Module | liquidation-sniping + trailing-stop, the #1 grid trading bot for futures. Includes liquidation-sniping and
 
 
 
